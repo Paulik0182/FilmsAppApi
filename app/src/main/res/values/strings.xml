@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">FilmsAppApi</string>
+    <string name="app_name">Фильмы</string>
+    <string name="name_film">Фильм: \ </string>
+    <string name="title">Название</string>
+    <string name="title_year">Год</string>
+    <string name="description_film">Описание фильма</string>
+    <string name="year_picture_release">Год выхода картины</string>
+    <string name="title_genre">Жанр</string>
+    <string name="name_movie">Название фильма</string>
 </resources>
